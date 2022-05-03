@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Pack Made By PNAPE",
+        "name": "§6Fall Festivities",
+        "uuid": "d6b55bf8-9bbf-4a25-ab04-23a95135640e",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description": "Pack Made By PNAPE",
+            "type": "resources",
+            "uuid": "988d042e-90a5-438d-8357-9c9029363210",
+            "version": [1, 0, 0]
+      }
+   ]
+}
